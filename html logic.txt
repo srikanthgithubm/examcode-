@@ -1,0 +1,19 @@
+ svit college application::
+
+
+tables & edmx:   admin tables=> employee      ==>  to see all tables details edmx=1
+           student tables=> ece mech it cse        ==>single person student wise.....edmx=4
+          (model1 registration nthng developed) Registration tables=> registration...state..city..(image)---based on control checking all purpose..edmx=1(student registraion edmx)
+
+
+controllers: home: 
+
+           
+
+          
+
+
+
+
+
+
